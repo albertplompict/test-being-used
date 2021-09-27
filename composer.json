@@ -1,0 +1,17 @@
+{
+    "name": "apict/test-being-used",
+    "description": "Test with a package that is being used",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "^9.5",
+        "monolog/monolog": "^2.3",
+        "ext-json": "^7.4",
+        "ext-pdo": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "albertplompict",
+            "email": "info@albertplompict.nl"
+        }
+    ]
+}
