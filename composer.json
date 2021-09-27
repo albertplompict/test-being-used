@@ -1,5 +1,5 @@
 {
-    "name": "apict/test-being-used",
+    "name": "albertplompict/test-being-used",
     "description": "Test with a package that is being used",
     "type": "library",
     "require": {
