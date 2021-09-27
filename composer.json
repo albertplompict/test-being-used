@@ -2,6 +2,7 @@
     "name": "albertplompict/test-being-used",
     "description": "Test with a package that is being used",
     "type": "library",
+	"version": "1.0"
     "require": {
         "phpunit/phpunit": "^9.5",
         "monolog/monolog": "^2.3",
